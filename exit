@@ -1,0 +1,19 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 379344d..586f991 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -8,9 +8,11 @@[m
+     <body>[m
+         <h1>My Daily Tasks</h1>[m
+         <ul>[m
+[31m-            <li><input type="checkbox">Learn Web using CodeSingal</li>[m
+[31m-            <li><input type="checkbox">Learn SQl or PostgreSQL using CodeSignal</li>[m
+[31m-            <li><input type="checkbox">Learn how to work my E-Commerce</li>[m
+[32m+[m[32m            <li><input type="checkbox">Learn Web</li>[m
+[32m+[m[32m            <li><input type="checkbox">Learn PostgreSQL</li>[m
+[32m+[m[32m            <li><input type="checkbox">Learn Python</li>[m
+[32m+[m[32m            <li><input type="checkbox">Learn DSA in C++</li>[m
+[32m+[m[32m            <li><input type="checkbox">Learn how to work E-Commerce</li>[m
+             <li><input type="checkbox">Learn driver license tests</li>[m
+         </ul>[m
+     </body>[m
